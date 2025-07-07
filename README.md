@@ -51,9 +51,9 @@ Three strategies are provided:
 ├── greedy.cc        # Greedy heuristic implementation
 ├── mh.cc            # Metaheuristic implementation
 ├── checker          # Provided checker tool (compiled separately)
-├── data/
-│   ├── sample.in    # Example input instances
-│   └── sample.out   # Corresponding example outputs
+├── 10-30.inp        # Medium Input file
+├── 11_13.inp        # Small Input file
+├── 9-99.inp         # Large Input file
 ├── README.md
 └── LICENSE
 ```
